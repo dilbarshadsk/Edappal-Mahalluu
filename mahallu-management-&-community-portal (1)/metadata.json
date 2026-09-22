@@ -1,0 +1,8 @@
+{
+  "name": "Mahallu Management \u0026 Community Portal",
+  "description": "Comprehensive community management platform for Mahallu administration, resident directory, subscription dues (Chanda), prayer timings, noticeboard announcements, and service requests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
